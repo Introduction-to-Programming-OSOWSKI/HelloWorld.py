@@ -1,17 +1,20 @@
-# **Assignment Title**  
+# **Hello World**  
 
 ## **Assignment Description**  
-
+Create a function called helloWorld() that returns "Hello World!".
 
 ## **Examples**  
->
+>helloWorld()
+Hello World!
 
 ## **Limitations**  
+1 function
 
 ## **Hints**  
+N/A
 
 ## **Concepts**  
-
+functions
 ---
 
 ## **How to complete this assignment**
