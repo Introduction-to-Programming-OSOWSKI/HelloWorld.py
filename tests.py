@@ -7,12 +7,10 @@ import datetime;
 
 year = 2020
 month = 12
-day = 1
-hour = 0
-minute = 0
+day = 15
 
 def test_code():
     assert 0 > 1, "error"
 
 def test_late():
-    assert datetime.datetime.now() < datetime.datetime(year, month, day, hour + 6, minute), "Submitted Late"
+    assert datetime.datetime.now() < datetime.datetime(year, month, day +!, 6, 00), "Submitted Late"
